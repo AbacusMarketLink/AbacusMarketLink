@@ -69,7 +69,6 @@ Key aspects:
 2. **Launch Tor Browser** and wait for secure connection
 3. **Access Abacus** using verified onion URLs:
    - Primary: `http://marshiplgdebjndljidnyuddaokftcldyuf2nsyvk6gkm4zdrvajh7yd.onion/`
-   - Mirror: `http://marshiplgdebjndljidnyuddaokftcldyuf2nsyvk6gkm4zdrvajh7yd.onion/` (verify PGP)
 
 4. **Security Protocol:**
    - Always verify PGP-signed mirror lists
