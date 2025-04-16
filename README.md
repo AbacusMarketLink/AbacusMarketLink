@@ -1,4 +1,4 @@
-# ABACUS MARKET OFFICIAL ONION LINK:
+# ABACUS MARKET OFFICIAL MARKET ONION LINK:
 # http://marshiplgdebjndljidnyuddaokftcldyuf2nsyvk6gkm4zdrvajh7yd.onion/
 
 **DISCLAIMER:** This repository is for **research and educational purposes only**. It does not endorse or promote illegal activities. Accessing darknet markets may violate laws in your jurisdiction. Use at your own risk.
